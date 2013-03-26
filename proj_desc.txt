@@ -1,0 +1,5 @@
+a. The viewer will see something that looks similar to a photo booth. When they step inside they will be able to take a picture with it. Although when they view the picture it will have been alter in an interesting way. 
+
+b. Technically this will require being able to access a camera/webcam to take a picture and then access it via Processing. Within processing their will be considerable photo manipulation. Finally will be the ability to then print the photos for the users.
+
+c. This will have a nostalgic value of old photo booths plus the reimagination of cubist interpretation of people faces. The real time conversion from a standard photo to the modified version requires technology to be done with quick turn over. I'm am not aware of anything exactly like this but it would not surprise me if it exists.
